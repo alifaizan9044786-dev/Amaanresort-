@@ -1,0 +1,6 @@
+{
+  "name": "Amaan Resorts - Luxury Nature & Vacation Destination",
+  "description": "Experience luxury, comfort & nature at Amaan Resorts. Unforgettable stays, premium villas & suites, fine dining, and direct WhatsApp booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
